@@ -7,6 +7,8 @@ Task4: Create an empty file named hello .
 Task5: Add execute permission to the owner of the file hello.
 Task6: Adds execute permission to the owner and the group owner and read permissions to other .
 Task7: Adds execution permission to the owner and the group owner and the other users .
-Task8:
-Task9: 
+Task8:James Bond
+Task9: John Doe
+Task 10 : Miror permissions .
+Task
 
