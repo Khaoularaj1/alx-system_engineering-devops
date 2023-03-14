@@ -1,1 +1,1 @@
-Task0 :Write a script that prints “Hello, World”
+ Task 1 :Write a script that displays a confused smiley 
